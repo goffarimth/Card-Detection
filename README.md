@@ -21,6 +21,22 @@
 
 การติดตั้งและใช้งาน
 1. Clone โปรเจค
-'''bash
-hshdhhsabbss
-'''
+```bash
+git clone https://github.com/goffarimth/Card-Detection.git
+cd Card-Detection
+```
+2. สร้างและเปิดใช้งาน Virtual Environment
+🔹 Windows
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+🔹 macOS / Linux
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+3. ติดตั้ง Dependencies(requirements)
+```
+pip install -r requirements.txt
+```

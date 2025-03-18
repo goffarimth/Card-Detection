@@ -40,3 +40,7 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+4.การรัน Web
+```
+streamlit run app.py
+```

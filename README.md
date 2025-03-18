@@ -18,7 +18,7 @@
 - โหมดเรียลไทม์: ใช้กล้องเพื่อทำการตรวจจับไพ่แบบเรียลไทม์
 
 ที่มาของ Datase
-[ข้อความที่แสดง](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/4)
+[[ข้อความที่แสดง](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/4)](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/4)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
